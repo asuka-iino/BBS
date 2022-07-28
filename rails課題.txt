@@ -1,0 +1,17 @@
+課題１
+　webアプリケーション、「todo_list」を作る。<task= todo_list
+＞sccafoldは名称　「rails　new」で+名前で作成
+　todoリストには名称、期限を保存できる。　<name、date(string)
+　scaffoldでCRUD操作ができるものを作る。<scaffold
+＞日本語化不完全
+
+課題２
+　webアプリケーション「BBS」を作る。<task　=　BBS
+　BBSは掲示板システムのことで、掲示板は、
+　内容と書き込み日時が保存できればよい。<taskleafと似て非なる？　
+　基本的なCRUD操作ができるようにする。
+　国際化やslimテンプレート、bootstrapを
+　使用する。
+
+bbs_table 
+id content whom
